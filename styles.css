@@ -1,0 +1,41 @@
+body {
+    background-color: #1c1c1c;
+    color: #fff;
+}
+
+#sidebar {
+    width: 250px;
+}
+
+.nav-link {
+    font-size: 18px;
+    padding: 10px 0;
+}
+
+.nav-link:hover {
+    background-color: #333;
+    border-radius: 5px;
+}
+
+#profile-pic {
+    width: 150px;
+    height: 150px;
+    border: 3px solid #fff;
+}
+
+.card {
+    border: none;
+    background-color: #2a2a2a;
+}
+
+.card-title {
+    font-size: 20px;
+}
+
+.card-text {
+    font-size: 16px;
+}
+
+h3 {
+    margin-top: 20px;
+}
